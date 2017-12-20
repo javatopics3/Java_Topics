@@ -1,4 +1,4 @@
-package encode_decode;
+package Encoding_Decoding;
 
 import java.util.Base64;
 
